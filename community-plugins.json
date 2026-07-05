@@ -37644,5 +37644,12 @@
     "author": "Jimmi (Jimmycarroll2021)",
     "description": "Build a typed knowledge graph from your vault with triples, provenance, GraphRAG prompts, and competency questions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jimmycarroll2021/obsidian-kg-forge"
+  },
+  {
+    "id": "move-done-down",
+    "name": "Move Done Down",
+    "author": "MihanEntalpo",
+    "description": "Move completed top-level Markdown task blocks down before the completed-task tail.",
+    "repo": "mihanentalpo/obsidian-move-done-down"
   }
 ]
